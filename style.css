@@ -1,0 +1,406 @@
+body {
+    margin: 0px;
+}
+
+#header {
+    width: 100%;
+    height: 70px;
+
+}
+
+.home-div {
+    width: 100%;
+    height: 800px;
+}
+
+.top-left {
+    position: absolute;
+    top: 10px;
+    left: 51px;
+    font-family: AudiType, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 38px;
+    letter-spacing: 1px;
+
+}
+
+#position {
+    position: relative;
+    color: white;
+}
+
+#secondhead {
+    padding-top: 0px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    line-height: 10px;
+    font-weight: 400;
+}
+
+.home-div,
+.home-button1 {
+    position: absolute;
+
+}
+
+.home-button1 {
+    top: 20%;
+    left: 51px;
+    width: 155px;
+    height: 60px;
+
+    letter-spacing: 0.5px;
+    font-size: medium;
+}
+
+.home-div,
+.home-button2 {
+    position: absolute;
+}
+
+.home-button2 {
+    top: 20%;
+    left: 210px;
+    width: 230px;
+    height: 60px;
+    letter-spacing: 0.5px;
+    background-color: transparent;
+    color: #fff;
+    border-color: #fff;
+    border-radius: 0%;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.car {
+
+    width: 230px;
+    height: auto;
+    padding-right: 10px;
+    padding-top: 50px;
+    float: left;
+}
+
+.CSS {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    font-weight: 500;
+    color: black;
+}
+
+#css1 {
+    padding-left: 80px;
+
+}
+
+#css2 {
+    padding-left: 180px;
+
+}
+
+#css4 {
+    padding-left: 200px;
+    font-size: 18px;
+}
+
+#css5 {
+    padding-left: 230px;
+    font-size: 18px;
+}
+
+#css6 {
+    padding-left: 200px;
+    font-size: 18px;
+}
+
+#A8 {
+    width: 100px;
+    height: 100;
+    float: left;
+    background: #fff;
+}
+
+#A81 {
+    padding-left: 150px;
+}
+
+#vl {
+    border-left: 0.2px solid rgba(9, 9, 9, 0.451);
+
+    height: 100px;
+    position: absolute;
+    float: right;
+    right: 0.2px;
+    padding-top: 80px;
+}
+
+#arrow {
+    top: 1px;
+}
+
+.model-head {
+    font-size: large;
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.5px;
+    line-height: 6px;
+    text-decoration: underline;
+    text-underline-offset: 6px;
+    padding-top: 12px;
+}
+
+.image {
+    width: 50%;
+    height: 600px;
+    padding-left: 50px;
+    padding-top: 120px;
+    float: left;
+}
+
+.head-div {
+    width: 45%;
+    float: left;
+}
+
+#head {
+    padding-top: 350px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+    font-weight: 200;
+    font-size: 40px;
+    color: #000000;
+    margin-right: 40px;
+
+}
+
+.button3 {
+    width: 160px;
+    height: 60px;
+    background: black;
+    padding-right: 12px;
+    color: #fff;
+    font-size: medium;
+}
+
+.plain {
+    width: 100%;
+    height: 70px;
+    background: #fff;
+    float: left;
+}
+
+.image-block {
+    height: 200px;
+    width: 705px;
+    background: #fff;
+    position: relative;
+    bottom: 58rem;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333333;
+    font-size: 15px;
+}
+
+.box {
+    padding: 50px;
+    letter-spacing: 4px;
+}
+
+.box2 {
+    font-size: 10px;
+    letter-spacing: 1px;
+}
+
+.image-head2 {
+    padding-top: 201px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 25px;
+    letter-spacing: 2px;
+    font-weight: lighter;
+}
+
+.e-tronb {
+    height: 49px;
+    width: 138px;
+    background: black;
+    float: left;
+    margin-left: 40px;
+    text-align: center;
+    padding-top: 13px;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.e-tronb1 {
+    width: 155px;
+    float: left;
+    background: black;
+    opacity: 0.1;
+    height: 49px;
+    padding-left: 20px;
+
+}
+
+.black-div {
+    position: relative;
+}
+
+.top-left {
+    position: absolute;
+    text-align: center;
+    color: #fff;
+    font-size: 1rem;
+    line-height: 4.2rem;
+    font-family: AudiTypeExtended, sans-serif;
+    font-size: 38px;
+    font-weight: bold;
+}
+
+.bottom-div {
+    background: black;
+    color: #fff;
+    width: 219px;
+    height: 59px;
+    border: 2px;
+    font-size: 14px;
+    border-color: white;
+    letter-spacing: 1px;
+}
+
+.plain-div3 {
+    width: 100%;
+    height: 60px;
+    background: #fff;
+    float: left;
+}
+
+.black-Audi {
+    width: 100%;
+    height: 400px;
+    background: #000000;
+    float: left;
+}
+
+.plain-div4 {
+    width: 100%;
+    height: 400px;
+    background: #333333;
+    float: left;
+}
+
+.black-div1 {
+    width: 55%;
+    height: 700px;
+    background: black;
+    float: left;
+}
+
+.phone-connect {
+    width: 45%;
+    height: 700px;
+    float: left;
+
+}
+
+.plain-div4 {
+    width: 100%;
+    height: 150px;
+    background: #fff;
+}
+
+.audi-promo {
+    padding-top: 51px;
+    padding-left: 54px;
+    font-size: 39px;
+    font-family: arial;
+    font-weight: bold;
+}
+
+.collash-div1 {
+    width: 100%;
+    height: 230px;
+    background: #fff;
+    float: left;
+}
+
+.audi-get {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    font-weight: 500;
+    color: black;
+    padding-left: 46px;
+    padding-right: 229px;
+    padding-top: 11px;
+    font-weight: bold;
+}
+
+
+.pic-write {
+    height: 700px;
+}
+
+.plain-div5 {
+    height: 80px;
+    width: 100%;
+    background: #fff;
+}
+
+.release {
+    padding-left: 49px;
+    padding-top: 30px;
+    font-weight: bold;
+    font-family: arial;
+    letter-spacing: 1px;
+}
+
+.collash-divlast {
+    width: 100%;
+    height: 19px;
+    background: #fff;
+    float: left;
+}
+
+.pic-write2 {
+    width: 400px;
+    height: 259px;
+    padding-right: 7px;
+    float: left;
+
+}
+
+.div-left {
+    margin-left: 49px;
+}
+
+.audi-india {
+    padding-right: 87px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+.text h3 {
+    color: #fff;
+    padding-top: 394px;
+    padding-left: 15px;
+    font-family: sans-serif;
+    font-size: 27px;
+    letter-spacing: 1px;
+}
+
+.text h2 {
+    color: #fff;
+    padding-left: 15px;
+    font-family: sans-serif;
+
+}
+.footer{
+    color: #fff;
+}
+p{
+    color: #fff;
+}
